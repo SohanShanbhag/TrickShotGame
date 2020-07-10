@@ -1,1 +1,2 @@
-# TrickShotGame
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
